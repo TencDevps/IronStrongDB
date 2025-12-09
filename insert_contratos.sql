@@ -1,7 +1,7 @@
 USE IronStrongFitness;
 GO
 
-
+---
 
 
 INSERT INTO Contratos (IdMiembro, IdMembresia, FechaInicio, FechaFin) VALUES

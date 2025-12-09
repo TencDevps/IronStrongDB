@@ -1,6 +1,6 @@
 USE IronStrongFitness;
 GO
-
+---
 CREATE TABLE Pagos (
     IdPago INT IDENTITY(1,1) PRIMARY KEY,
     IdContrato INT NOT NULL,

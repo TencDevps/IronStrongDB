@@ -1,6 +1,6 @@
 USE IronStrongFitness;
 GO
-
+---
 CREATE TABLE Contratos (
     IdContrato INT IDENTITY(1,1) PRIMARY KEY,
     IdMiembro INT NOT NULL,
