@@ -1,1 +1,1 @@
-----archivo de conflicto
+----conflicto
